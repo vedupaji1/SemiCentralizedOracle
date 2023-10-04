@@ -1,0 +1,19 @@
+bootstrap: false
+bootstrappingpeers:
+    aeadd7b831421a19b0defe9cb2cf5082d0500d4cd9a45b744884f897a8ace7c3c20737d081e7a2ffe5a11276a0f41243:
+        listenaddr: http://0.0.0.0:8000
+        requestaddr: http://0.0.0.0:3000
+    b3ff49f7172cd9c51ade5692084d968f3379582e159564262a2928696745b666e98622791e24ac1eb556c94fe85b6ef5:
+        listenaddr: http://0.0.0.0:8001
+        requestaddr: http://0.0.0.0:3001
+    859beaf165d93c51a6e049cbb46e6e2152c247f44497e9f9bb3c2992837c59e59c60959a077b83e0b54b50d6edf7b0cb:
+        listenaddr: http://0.0.0.0:8002
+        requestaddr: http://0.0.0.0:3002
+    858d59af867428a07d2d3acf95b2f541ce4b9a32b65481d29801bece6481821d0efc24eca5fea3dac7b7859bbfc0f0d7:
+        listenaddr: http://0.0.0.0:8003
+        requestaddr: http://0.0.0.0:3003
+leaderPeerListenAdder: http://0.0.0.0:8002
+listenaddr: http://0.0.0.0:8004
+nextleaderchangetime: 1695409250
+requestaddr: http://0.0.0.0:3004
+secretkey: 1a16a1bac3190b99a304cbd30e2e278408dda94f62aa66e5f6e587e3411cda63
